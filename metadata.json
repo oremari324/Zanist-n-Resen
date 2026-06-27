@@ -1,0 +1,6 @@
+{
+  "name": "Zanistên Resen",
+  "description": "زانستێن رەسەن - هاریکارێ تە یێ ئەکادیمی بۆ چارەسەریا بیرکاریێ، تێگەهێن فیزیاێ، و هاوکێشێن کیمیایێ ب پشتەڤانیا ژیرییا دەستکرد",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
